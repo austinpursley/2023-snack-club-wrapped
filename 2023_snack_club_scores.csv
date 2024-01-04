@@ -1,0 +1,589 @@
+Date,Country,Snack,Member,Packaging,Presentation,Taste,Texture,Overall Score
+2023-01-05,Korea,Ottogi Pushu Pushu – Bolgogi Flavor,J,3.5,2.5,3.0,3.0,3.0
+2023-01-05,Korea,"Soejun Yang Jelly ""cat paws""",J,5.0,5.0,4.0,4.0,4.5
+2023-01-05,Korea,Crown Couque D’asse – Coffee,J,2.5,3.5,3.5,4.0,3.375
+2023-01-05,Korea,Crown Couque D’asse – White,J,3.0,3.5,3.5,4.0,3.5
+2023-01-05,Korea,Lotte Custard Cake,J,2.0,2.0,4.5,1.5,2.5
+2023-01-05,Korea,Ottogi Pushu Pushu – Bolgogi Flavor,E,3.8,2.0,4.0,3.2,3.25
+2023-01-05,Korea,"Soejun Yang Jelly ""cat paws""",E,4.5,4.5,3.8,4.0,4.2
+2023-01-05,Korea,Crown Couque D’asse – Coffee,E,3.2,3.7,3.0,3.5,3.35
+2023-01-05,Korea,Crown Couque D’asse – White,E,4.0,3.7,3.5,3.5,3.675
+2023-01-05,Korea,Lotte Custard Cake,E,2.0,2.0,4.0,1.0,2.25
+2023-01-05,Korea,Ottogi Pushu Pushu – Bolgogi Flavor,C,4.0,2.5,4.0,4.0,3.625
+2023-01-05,Korea,"Soejun Yang Jelly ""cat paws""",C,5.0,5.0,4.0,4.0,4.5
+2023-01-05,Korea,Crown Couque D’asse – Coffee,C,4.0,4.5,4.0,5.0,4.375
+2023-01-05,Korea,Crown Couque D’asse – White,C,4.0,4.5,3.0,5.0,4.125
+2023-01-05,Korea,Lotte Custard Cake,C,1.5,1.5,3.5,1.0,1.875
+2023-01-05,Korea,Ottogi Pushu Pushu – Bolgogi Flavor,A,3.75,2.2,4.1,3.0,3.2625
+2023-01-05,Korea,"Soejun Yang Jelly ""cat paws""",A,5.0,4.8,4.2,4.2,4.55
+2023-01-05,Korea,Crown Couque D’asse – Coffee,A,3.0,3.5,3.75,3.0,3.3125
+2023-01-05,Korea,Crown Couque D’asse – White,A,2.9,3.5,3.0,3.0,3.1
+2023-01-05,Korea,Lotte Custard Cake,A,2.2,2.0,3.75,1.0,2.2375
+2023-01-11,Korea,Crown Butter Waffle Cookie,J,2.5,3.5,3.5,3.0,3.125
+2023-01-11,Korea,CW Food Sticky Chocolate Chip,J,4.0,3.0,3.0,2.5,3.125
+2023-01-11,Korea,Lotte Choco Pie,J,2.5,2.5,2.0,2.0,2.25
+2023-01-11,Korea,Pororo Straw Type Jelly,J,4.0,2.5,3.5,4.0,3.5
+2023-01-11,Korea,Haitai Apple French Pie,J,3.0,2.0,1.5,1.5,2.0
+2023-01-11,Korea,Crown Butter Waffle Cookie,E,3.0,3.5,4.0,3.0,3.375
+2023-01-11,Korea,CW Food Sticky Chocolate Chip,E,3.75,3.0,3.0,2.5,3.0625
+2023-01-11,Korea,Lotte Choco Pie,E,2.5,3.0,1.8,2.0,2.325
+2023-01-11,Korea,Pororo Straw Type Jelly,E,3.75,1.0,1.7,1.5,1.9875
+2023-01-11,Korea,Haitai Apple French Pie,E,3.0,1.5,1.8,1.0,1.825
+2023-01-11,Korea,Crown Butter Waffle Cookie,C,3.5,3.5,4.0,3.5,3.625
+2023-01-11,Korea,CW Food Sticky Chocolate Chip,C,3.5,3.0,3.5,2.0,3.0
+2023-01-11,Korea,Lotte Choco Pie,C,2.5,3.0,2.5,2.0,2.5
+2023-01-11,Korea,Pororo Straw Type Jelly,C,4.5,3.0,3.0,3.0,3.375
+2023-01-11,Korea,Haitai Apple French Pie,C,3.5,2.0,1.5,2.0,2.25
+2023-01-11,Korea,Crown Butter Waffle Cookie,A,4.1,3.25,3.75,3.0,3.525
+2023-01-11,Korea,CW Food Sticky Chocolate Chip,A,4.5,4.0,4.0,2.5,3.75
+2023-01-11,Korea,Lotte Choco Pie,A,2.2,2.5,2.0,2.2,2.225
+2023-01-11,Korea,Pororo Straw Type Jelly,A,4.0,2.5,3.0,3.5,3.25
+2023-01-11,Korea,Haitai Apple French Pie,A,3.0,2.0,1.75,1.5,2.0625
+2023-02-03,United Kingdom,Skips Tapioca Snack Prawn Cocktail Flavor,J,2.5,2.5,2.5,3.5,2.75
+2023-02-03,United Kingdom,Cadbury crunchie chocolate bar,J,3.0,3.5,1.5,4.5,3.125
+2023-02-03,United Kingdom,Millions strawberry fruit candy,J,3.5,2.0,3.5,1.5,2.625
+2023-02-03,United Kingdom,flake milk chocolate bar,J,3.5,2.0,1.0,1.0,1.875
+2023-02-03,United Kingdom,Rowntrees Random fruit snacks,J,3.5,4.5,3.0,3.5,3.625
+2023-02-03,United Kingdom,Skips Tapioca Snack Prawn Cocktail Flavor,E,3.3,2.5,2.2,2.0,2.5
+2023-02-03,United Kingdom,Cadbury crunchie chocolate bar,E,3.5,4.0,3.8,4.2,3.875
+2023-02-03,United Kingdom,Millions strawberry fruit candy,E,3.3,2.0,4.0,4.0,3.325
+2023-02-03,United Kingdom,flake milk chocolate bar,E,3.5,2.0,3.0,1.0,2.375
+2023-02-03,United Kingdom,Rowntrees Random fruit snacks,E,3.5,5.0,2.5,2.5,3.375
+2023-02-03,United Kingdom,Skips Tapioca Snack Prawn Cocktail Flavor,C,3.0,3.0,2.0,4.0,3.0
+2023-02-03,United Kingdom,Cadbury crunchie chocolate bar,C,3.5,4.0,4.5,5.0,4.25
+2023-02-03,United Kingdom,Millions strawberry fruit candy,C,4.0,2.5,4.0,4.0,3.625
+2023-02-03,United Kingdom,flake milk chocolate bar,C,3.5,2.5,3.0,1.5,2.625
+2023-02-03,United Kingdom,Rowntrees Random fruit snacks,C,3.5,4.0,3.5,3.0,3.5
+2023-02-03,United Kingdom,Skips Tapioca Snack Prawn Cocktail Flavor,A,3.0,2.4,2.4,3.75,2.8875
+2023-02-03,United Kingdom,Cadbury crunchie chocolate bar,A,3.75,4.1,4.0,4.3,4.0375
+2023-02-03,United Kingdom,Millions strawberry fruit candy,A,3.5,2.0,3.5,2.0,2.75
+2023-02-03,United Kingdom,flake milk chocolate bar,A,2.5,2.0,1.5,1.0,1.75
+2023-02-03,United Kingdom,Rowntrees Random fruit snacks,A,3.0,4.75,3.5,3.5,3.6875
+2023-02-17,Belgium,Lays Grills Gerookt/Fume,J,3.0,3.5,4.0,4.0,3.625
+2023-02-17,Belgium,Haribo Pasta Fruuta (Fizz!),J,3.5,4.0,4.0,2.0,3.375
+2023-02-17,Belgium,Lotus Frangipane,J,3.0,3.5,2.0,3.5,3.0
+2023-02-17,Belgium,Biscuiterie Jules Destrooper,J,2.5,3.5,3.0,3.5,3.125
+2023-02-17,Belgium,Grefin(?) Eclair,J,3.0,2.0,3.5,4.0,3.125
+2023-02-17,Belgium,Lays Grills Gerookt/Fume,E,2.0,2.0,4.0,4.0,3.0
+2023-02-17,Belgium,Haribo Pasta Fruuta (Fizz!),E,3.5,4.0,4.3,2.0,3.45
+2023-02-17,Belgium,Lotus Frangipane,E,2.5,3.0,3.2,3.0,2.925
+2023-02-17,Belgium,Biscuiterie Jules Destrooper,E,2.7,3.0,3.8,3.5,3.25
+2023-02-17,Belgium,Grefin(?) Eclair,E,3.0,2.5,3.8,3.6,3.225
+2023-02-17,Belgium,Lays Grills Gerookt/Fume,C,3.5,3.0,3.5,4.0,3.5
+2023-02-17,Belgium,Haribo Pasta Fruuta (Fizz!),C,4.0,4.0,4.5,4.0,4.125
+2023-02-17,Belgium,Lotus Frangipane,C,2.0,3.0,3.0,4.0,3.0
+2023-02-17,Belgium,Biscuiterie Jules Destrooper,C,3.5,3.5,4.5,3.5,3.75
+2023-02-17,Belgium,Grefin(?) Eclair,C,3.0,2.5,4.0,4.0,3.375
+2023-02-17,Belgium,Lays Grills Gerookt/Fume,A,3.0,3.0,4.0,4.0,3.5
+2023-02-17,Belgium,Haribo Pasta Fruuta (Fizz!),A,3.75,3.5,3.75,2.0,3.25
+2023-02-17,Belgium,Lotus Frangipane,A,2.5,3.0,3.0,3.5,3.0
+2023-02-17,Belgium,Biscuiterie Jules Destrooper,A,3.5,3.0,4.0,3.5,3.5
+2023-02-17,Belgium,Grefin(?) Eclair,A,3.0,2.5,4.5,4.5,3.625
+2023-02-17,United Kingdom,Cabury Fudge,J,3.0,3.5,1.0,3.5,2.75
+2023-02-17,United Kingdom,Hula Hoops Puft Grilled Beef,J,1.5,2.0,3.0,3.5,2.5
+2023-02-17,United Kingdom,Cadbury Double Decker Chocolate Bar,J,3.5,3.0,2.0,3.0,2.875
+2023-02-17,United Kingdom,Space Raiders Spicy,J,4.0,4.0,4.0,4.0,4.0
+2023-02-17,United Kingdom,Sherbert fountain,J,2.5,1.0,1.0,1.5,1.5
+2023-02-17,United Kingdom,Xtreme Chewitz sour apple chews,J,3.5,3.0,3.0,2.0,2.875
+2023-02-17,United Kingdom,"Jaffa Cakes ""The Original""",J,4.5,3.0,3.0,4.0,3.625
+2023-02-17,United Kingdom,Cabury Fudge,E,3.0,3.5,4.0,3.0,3.375
+2023-02-17,United Kingdom,Hula Hoops Puft Grilled Beef,E,1.8,2.0,3.0,4.0,2.7
+2023-02-17,United Kingdom,Cadbury Double Decker Chocolate Bar,E,3.5,2.5,3.8,3.5,3.325
+2023-02-17,United Kingdom,Space Raiders Spicy,E,4.5,4.0,3.8,4.0,4.075
+2023-02-17,United Kingdom,Sherbert fountain,E,3.0,1.0,1.5,1.0,1.625
+2023-02-17,United Kingdom,Xtreme Chewitz sour apple chews,E,3.5,2.5,3.6,3.0,3.15
+2023-02-17,United Kingdom,"Jaffa Cakes ""The Original""",E,4.7,2.0,3.5,4.0,3.55
+2023-02-17,United Kingdom,Cabury Fudge,C,3.0,4.0,3.5,2.5,3.25
+2023-02-17,United Kingdom,Hula Hoops Puft Grilled Beef,C,2.0,2.5,2.5,4.5,2.875
+2023-02-17,United Kingdom,Cadbury Double Decker Chocolate Bar,C,3.5,3.5,3.5,3.5,3.5
+2023-02-17,United Kingdom,Space Raiders Spicy,C,4.5,4.5,3.5,4.0,4.125
+2023-02-17,United Kingdom,Sherbert fountain,C,3.5,1.5,1.5,1.0,1.875
+2023-02-17,United Kingdom,Xtreme Chewitz sour apple chews,C,4.0,3.0,3.5,3.0,3.375
+2023-02-17,United Kingdom,"Jaffa Cakes ""The Original""",C,4.5,3.5,2.0,4.0,3.5
+2023-02-17,United Kingdom,Cabury Fudge,A,2.0,3.4,2.5,2.75,2.6625
+2023-02-17,United Kingdom,Hula Hoops Puft Grilled Beef,A,1.75,2.0,4.0,3.5,2.8125
+2023-02-17,United Kingdom,Cadbury Double Decker Chocolate Bar,A,2.5,2.75,3.0,2.5,2.6875
+2023-02-17,United Kingdom,Space Raiders Spicy,A,4.5,4.3,3.75,4.0,4.1375
+2023-02-17,United Kingdom,Sherbert fountain,A,3.0,1.5,1.5,1.0,1.75
+2023-02-17,United Kingdom,Xtreme Chewitz sour apple chews,A,4.0,2.5,3.5,3.0,3.25
+2023-02-17,United Kingdom,"Jaffa Cakes ""The Original""",A,4.3,2.5,4.0,4.5,3.825
+2023-03-02,Belgium,Cote D'OR chocolate,J,2.0,4.0,4.0,5.0,3.75
+2023-03-02,Belgium,Lotus Biscoff with Belgium Choclate,J,3.5,3.5,4.0,4.0,3.75
+2023-03-02,Belgium,Gicopa violet,J,1.5,4.0,2.5,3.0,2.75
+2023-03-02,Belgium,DeliChoc Choco'Bar,J,2.0,3.0,2.0,3.0,2.5
+2023-03-02,Belgium,Croky Bicky flavor Chips,J,3.0,4.0,3.0,3.5,3.375
+2023-03-02,Belgium,Suzy Gaufre DeLiege Luikse Wafel Chocolade,J,3.5,3.5,4.0,4.5,3.875
+2023-03-02,Belgium,Cote D'OR chocolate,E,2.5,4.5,4.3,4.7,4.0
+2023-03-02,Belgium,Lotus Biscoff with Belgium Choclate,E,4.1,3.3,3.7,3.5,3.65
+2023-03-02,Belgium,Gicopa violet,E,2.0,3.0,3.5,3.0,2.875
+2023-03-02,Belgium,DeliChoc Choco'Bar,E,1.5,3.0,2.3,2.0,2.2
+2023-03-02,Belgium,Croky Bicky flavor Chips,E,3.5,4.0,2.5,3.0,3.25
+2023-03-02,Belgium,Suzy Gaufre DeLiege Luikse Wafel Chocolade,E,3.0,3.5,4.0,4.5,3.75
+2023-03-02,Belgium,Cote D'OR chocolate,C,2.5,4.0,4.5,5.0,4.0
+2023-03-02,Belgium,Lotus Biscoff with Belgium Choclate,C,4.5,4.0,4.0,4.0,4.125
+2023-03-02,Belgium,Gicopa violet,C,2.0,3.0,4.5,4.0,3.375
+2023-03-02,Belgium,DeliChoc Choco'Bar,C,3.0,3.5,3.0,2.5,3.0
+2023-03-02,Belgium,Croky Bicky flavor Chips,C,3.0,4.0,2.0,4.0,3.25
+2023-03-02,Belgium,Suzy Gaufre DeLiege Luikse Wafel Chocolade,C,3.0,3.5,4.0,4.0,3.625
+2023-03-02,Belgium,Cote D'OR chocolate,A,2.0,4.2,4.75,5.0,3.9875
+2023-03-02,Belgium,Lotus Biscoff with Belgium Choclate,A,3.75,3.75,4.0,3.5,3.75
+2023-03-02,Belgium,Gicopa violet,A,2.0,4.0,2.5,3.0,2.875
+2023-03-02,Belgium,DeliChoc Choco'Bar,A,2.0,3.75,1.75,2.0,2.375
+2023-03-02,Belgium,Croky Bicky flavor Chips,A,4.4,3.8,3.0,4.0,3.8
+2023-03-02,Belgium,Suzy Gaufre DeLiege Luikse Wafel Chocolade,A,2.5,3.75,3.75,4.3,3.575
+2023-03-11,Colombia,"Mani Moto Recubierto ""Japanese Peanuts""",J,4.0,2.5,3.0,2.0,2.875
+2023-03-11,Colombia,Jumbo Rosca,J,2.5,3.5,4.0,4.0,3.5
+2023-03-11,Colombia,Tostacos Picante,J,3.5,3.5,3.0,3.0,3.25
+2023-03-11,Colombia,Chokis Chocolatoasas y Deliciosass,J,2.0,2.0,2.0,4.5,2.625
+2023-03-11,Colombia,Supercoco Choco Snacks,J,3.5,2.5,4.0,3.5,3.375
+2023-03-11,Colombia,"Mani Moto Recubierto ""Japanese Peanuts""",E,4.0,3.0,3.2,2.0,3.05
+2023-03-11,Colombia,Jumbo Rosca,E,4.0,3.5,3.9,4.0,3.85
+2023-03-11,Colombia,Tostacos Picante,E,3.5,3.0,3.0,3.0,3.125
+2023-03-11,Colombia,Chokis Chocolatoasas y Deliciosass,E,2.0,2.5,4.6,4.5,3.4
+2023-03-11,Colombia,Supercoco Choco Snacks,E,4.0,2.5,4.2,3.5,3.55
+2023-03-11,Colombia,"Mani Moto Recubierto ""Japanese Peanuts""",C,4.0,3.5,3.0,2.5,3.25
+2023-03-11,Colombia,Jumbo Rosca,C,3.5,4.0,4.0,4.5,4.0
+2023-03-11,Colombia,Tostacos Picante,C,4.0,4.0,3.5,3.5,3.75
+2023-03-11,Colombia,Chokis Chocolatoasas y Deliciosass,C,2.5,3.0,4.0,5.0,3.625
+2023-03-11,Colombia,Supercoco Choco Snacks,C,4.0,3.0,4.0,4.0,3.75
+2023-03-11,Colombia,"Mani Moto Recubierto ""Japanese Peanuts""",A,3.0,3.0,3.0,2.0,2.75
+2023-03-11,Colombia,Jumbo Rosca,A,3.0,4.25,3.5,4.0,3.6875
+2023-03-11,Colombia,Tostacos Picante,A,4.0,3.5,3.0,3.0,3.375
+2023-03-11,Colombia,Chokis Chocolatoasas y Deliciosass,A,2.0,3.0,4.25,4.5,3.4375
+2023-03-11,Colombia,Supercoco Choco Snacks,A,3.5,3.0,4.0,4.0,3.625
+2023-03-17,Colombia,Gol Wafer Choclate Bar,J,3.0,2.0,2.0,3.0,2.5
+2023-03-17,Colombia,Gol 'Mega arequipe' wafer choclate bar,J,3.5,2.5,2.5,3.0,2.875
+2023-03-17,Colombia,Margarita Pollo potato chips,J,3.5,2.5,2.5,3.0,2.875
+2023-03-17,Colombia,Jumbo Flow,J,3.5,3.0,3.0,4.0,3.375
+2023-03-17,Colombia,Colombina Coffee Delight chewy candy,J,3.5,3.5,3.0,2.0,3.0
+2023-03-17,Colombia,Gol Wafer Choclate Bar,E,3.0,2.0,3.0,3.0,2.75
+2023-03-17,Colombia,Gol 'Mega arequipe' wafer choclate bar,E,3.5,3.0,3.5,3.0,3.25
+2023-03-17,Colombia,Margarita Pollo potato chips,E,3.5,3.2,2.3,3.5,3.125
+2023-03-17,Colombia,Jumbo Flow,E,3.5,3.4,4.3,4.5,3.925
+2023-03-17,Colombia,Colombina Coffee Delight chewy candy,E,3.0,3.0,2.8,2.0,2.7
+2023-03-17,Colombia,Gol Wafer Choclate Bar,C,3.0,3.0,4.0,4.0,3.5
+2023-03-17,Colombia,Gol 'Mega arequipe' wafer choclate bar,C,3.5,3.0,3.5,4.0,3.5
+2023-03-17,Colombia,Margarita Pollo potato chips,C,3.5,3.0,3.5,3.0,3.25
+2023-03-17,Colombia,Jumbo Flow,C,4.0,4.0,4.0,4.0,4.0
+2023-03-17,Colombia,Colombina Coffee Delight chewy candy,C,4.0,3.5,3.5,2.5,3.375
+2023-03-17,Colombia,Gol Wafer Choclate Bar,A,3.0,2.75,3.5,4.0,3.3125
+2023-03-17,Colombia,Gol 'Mega arequipe' wafer choclate bar,A,3.5,3.0,3.0,4.0,3.375
+2023-03-17,Colombia,Margarita Pollo potato chips,A,3.75,2.5,3.5,2.5,3.0625
+2023-03-17,Colombia,Jumbo Flow,A,4.0,4.0,4.0,4.5,4.125
+2023-03-17,Colombia,Colombina Coffee Delight chewy candy,A,3.5,3.0,3.0,2.0,2.875
+2023-04-07,Colombia,Cococelle wafers,J,3.0,2.5,4.0,3.5,3.25
+2023-04-07,Colombia,Chokis Chocobase cookies,J,2.0,2.5,3.5,3.0,2.75
+2023-04-07,Colombia,Choclitos Limon chips,J,2.5,3.5,2.0,3.0,2.75
+2023-04-07,Colombia,Bonbo Bum suckers,J,2.5,2.5,2.5,3.0,2.625
+2023-04-07,Colombia,Cococelle wafers,E,3.2,2.5,4.0,3.5,3.3
+2023-04-07,Colombia,Chokis Chocobase cookies,E,3.0,2.0,3.5,2.8,2.825
+2023-04-07,Colombia,Choclitos Limon chips,E,2.5,2.8,2.2,3.5,2.75
+2023-04-07,Colombia,Bonbo Bum suckers,E,3.0,2.0,3.5,2.0,2.625
+2023-04-07,Colombia,Cococelle wafers,C,3.5,3.5,3.5,4.0,3.625
+2023-04-07,Colombia,Chokis Chocobase cookies,C,4.0,2.5,4.0,3.5,3.5
+2023-04-07,Colombia,Choclitos Limon chips,C,3.0,3.5,2.0,4.0,3.125
+2023-04-07,Colombia,Bonbo Bum suckers,C,3.5,2.5,4.0,3.0,3.25
+2023-04-07,Colombia,Cococelle wafers,A,2.2,2.5,4.0,3.5,3.05
+2023-04-07,Colombia,Chokis Chocobase cookies,A,2.5,2.3,3.5,3.0,2.825
+2023-04-07,Colombia,Choclitos Limon chips,A,3.0,3.0,2.0,3.0,2.75
+2023-04-07,Colombia,Bonbo Bum suckers,A,3.25,3.0,3.25,3.0,3.125
+2023-04-22,Canada,Bear Paws Pattes d'ours,J,3.5,3.5,4.0,2.0,3.25
+2023-04-22,Canada,KitKat Chunky (with french on it),J,3.0,3.5,2.5,3.0,3.0
+2023-04-22,Canada,Humpty Dumpty Ringolos BBQ Flavor,J,4.0,3.5,4.0,4.0,3.875
+2023-04-22,Canada,Coffee Crisp Double Double Chocolate Bar,J,2.0,2.0,3.0,3.0,2.5
+2023-04-22,Canada,Kerr's Toffee candy,J,2.5,1.5,1.5,2.0,1.875
+2023-04-22,Canada,Bear Paws Pattes d'ours,E,2.0,3.0,1.5,2.0,2.125
+2023-04-22,Canada,KitKat Chunky (with french on it),E,3.0,4.5,3.5,4.0,3.75
+2023-04-22,Canada,Humpty Dumpty Ringolos BBQ Flavor,E,3.5,4.0,4.5,3.5,3.875
+2023-04-22,Canada,Coffee Crisp Double Double Chocolate Bar,E,3.0,3.0,4.0,3.7,3.425
+2023-04-22,Canada,Kerr's Toffee candy,E,3.0,1.0,2.0,1.3,1.825
+2023-04-22,Canada,Bear Paws Pattes d'ours,C,3.0,3.5,3.5,2.0,3.0
+2023-04-22,Canada,KitKat Chunky (with french on it),C,3.0,4.5,4.5,4.0,4.0
+2023-04-22,Canada,Humpty Dumpty Ringolos BBQ Flavor,C,4.0,4.5,4.0,4.0,4.125
+2023-04-22,Canada,Coffee Crisp Double Double Chocolate Bar,C,3.0,3.0,3.5,3.5,3.25
+2023-04-22,Canada,Kerr's Toffee candy,C,3.5,2.0,2.5,2.0,2.5
+2023-04-22,Canada,Bear Paws Pattes d'ours,A,3.0,3.5,4.0,2.0,3.125
+2023-04-22,Canada,KitKat Chunky (with french on it),A,3.5,4.5,4.5,4.5,4.25
+2023-04-22,Canada,Humpty Dumpty Ringolos BBQ Flavor,A,4.25,3.5,4.25,4.0,4.0
+2023-04-22,Canada,Coffee Crisp Double Double Chocolate Bar,A,2.0,2.25,3.0,4.0,2.8125
+2023-04-22,Canada,Kerr's Toffee candy,A,3.0,2.0,2.0,2.0,2.25
+2023-04-28,Canada,"Ruffles ""All Dressed""",J,3.0,4.0,3.5,4.0,3.625
+2023-04-28,Canada,mr. Big Original,J,2.5,2.5,2.5,3.5,2.75
+2023-04-28,Canada,Old Dutch Ketchup Flavored Potatoe Chips,J,5.0,4.0,2.0,3.5,3.625
+2023-04-28,Canada,Collection M Gourmet 100% PURE Maple Syrup Sucker,J,4.0,4.0,4.0,2.0,3.5
+2023-04-28,Canada,"Ruffles ""All Dressed""",E,3.0,4.5,4.7,4.0,4.05
+2023-04-28,Canada,mr. Big Original,E,3.5,3.0,4.0,4.0,3.625
+2023-04-28,Canada,Old Dutch Ketchup Flavored Potatoe Chips,E,4.4,4.0,3.8,3.5,3.925
+2023-04-28,Canada,Collection M Gourmet 100% PURE Maple Syrup Sucker,E,3.0,4.3,3.0,2.5,3.2
+2023-04-28,Canada,"Ruffles ""All Dressed""",C,3.5,3.5,2.5,4.0,3.375
+2023-04-28,Canada,mr. Big Original,C,3.5,3.0,4.5,4.0,3.75
+2023-04-28,Canada,Old Dutch Ketchup Flavored Potatoe Chips,C,4.0,4.0,2.5,3.5,3.5
+2023-04-28,Canada,Collection M Gourmet 100% PURE Maple Syrup Sucker,C,4.0,4.0,3.5,3.0,3.625
+2023-04-28,Canada,"Ruffles ""All Dressed""",A,3.0,3.5,4.4,4.0,3.725
+2023-04-28,Canada,mr. Big Original,A,3.4,3.0,3.5,4.0,3.475
+2023-04-28,Canada,Old Dutch Ketchup Flavored Potatoe Chips,A,5.0,4.0,2.25,3.0,3.5625
+2023-04-28,Canada,Collection M Gourmet 100% PURE Maple Syrup Sucker,A,3.5,4.0,4.0,3.0,3.625
+2023-05-05,Ireland,Cabury Roundie,J,4.0,4.0,3.0,4.0,3.75
+2023-05-05,Ireland,Mint Crisp Mint Chocolate Bar,J,3.0,3.5,3.0,3.0,3.125
+2023-05-05,Ireland,Smiths Scampi Flavor fries,J,2.5,4.0,4.5,3.5,3.625
+2023-05-05,Ireland,Caffrey's Big Time Chocolate Caramel Bar,J,3.5,2.5,1.5,2.0,2.375
+2023-05-05,Ireland,Burts Guinness Thick Cut Hand Cooked Potato Chips,J,3.0,2.0,2.5,4.0,2.875
+2023-05-05,Ireland,Cabury Roundie,E,4.0,2.5,4.2,3.0,3.425
+2023-05-05,Ireland,Mint Crisp Mint Chocolate Bar,E,3.3,3.0,2.5,3.0,2.95
+2023-05-05,Ireland,Smiths Scampi Flavor fries,E,3.0,4.0,4.7,4.0,3.925
+2023-05-05,Ireland,Caffrey's Big Time Chocolate Caramel Bar,E,3.5,1.0,3.8,3.0,2.825
+2023-05-05,Ireland,Burts Guinness Thick Cut Hand Cooked Potato Chips,E,3.2,2.0,2.8,3.5,2.875
+2023-05-05,Ireland,Cabury Roundie,C,4.0,4.0,4.0,3.5,3.875
+2023-05-05,Ireland,Mint Crisp Mint Chocolate Bar,C,2.5,3.5,2.0,3.5,2.875
+2023-05-05,Ireland,Smiths Scampi Flavor fries,C,2.5,4.5,4.0,4.5,3.875
+2023-05-05,Ireland,Caffrey's Big Time Chocolate Caramel Bar,C,3.5,3.5,3.0,2.5,3.125
+2023-05-05,Ireland,Burts Guinness Thick Cut Hand Cooked Potato Chips,C,4.5,2.5,3.5,4.0,3.625
+2023-05-05,Ireland,Cabury Roundie,A,4.4,4.0,3.75,3.5,3.9125
+2023-05-05,Ireland,Mint Crisp Mint Chocolate Bar,A,3.75,3.75,4.0,3.5,3.75
+2023-05-05,Ireland,Smiths Scampi Flavor fries,A,3.0,3.75,4.5,4.0,3.8125
+2023-05-05,Ireland,Caffrey's Big Time Chocolate Caramel Bar,A,3.5,2.5,3.0,3.0,3.0
+2023-05-05,Ireland,Burts Guinness Thick Cut Hand Cooked Potato Chips,A,4.1,2.5,3.5,3.75,3.4625
+2023-05-15,America-Vegas-Special,Rap Snacks Nikki Minaj Salt & Vinegar & Trufflesl,J,3.5,4.5,4.0,3.5,3.875
+2023-05-15,America-Vegas-Special,Rap Snacks Rick Ross Sweet Chilli Lemon Pepper,J,3.0,3.5,3.5,3.5,3.375
+2023-05-15,America-Vegas-Special,"Rap Snacks Lily Baby ""All In"" Flavor Salt & Vinegar, BBQ, Onion, garlic, and more",J,3.0,4.0,2.0,3.5,3.125
+2023-05-15,America-Vegas-Special,Hard MtnbDew Baja Blast Zero Sugar,J,5.0,4.0,4.0,3.0,4.0
+2023-05-15,America-Vegas-Special,Rap Snacks Nikki Minaj Salt & Vinegar & Trufflesl,E,2.0,4.0,4.4,4.0,3.6
+2023-05-15,America-Vegas-Special,Rap Snacks Rick Ross Sweet Chilli Lemon Pepper,E,4.0,3.0,3.7,4.0,3.675
+2023-05-15,America-Vegas-Special,"Rap Snacks Lily Baby ""All In"" Flavor Salt & Vinegar, BBQ, Onion, garlic, and more",E,4.2,3.5,2.0,4.0,3.425
+2023-05-15,America-Vegas-Special,Hard MtnbDew Baja Blast Zero Sugar,E,5.0,4.0,3.5,3.0,3.875
+2023-05-15,America-Vegas-Special,Rap Snacks Nikki Minaj Salt & Vinegar & Trufflesl,C,3.0,4.0,3.5,3.5,3.5
+2023-05-15,America-Vegas-Special,Rap Snacks Rick Ross Sweet Chilli Lemon Pepper,C,4.0,4.5,3.5,3.5,3.875
+2023-05-15,America-Vegas-Special,"Rap Snacks Lily Baby ""All In"" Flavor Salt & Vinegar, BBQ, Onion, garlic, and more",C,4.0,3.5,2.0,3.5,3.25
+2023-05-15,America-Vegas-Special,Hard MtnbDew Baja Blast Zero Sugar,C,4.5,3.5,4.0,3.5,3.875
+2023-05-15,America-Vegas-Special,Rap Snacks Nikki Minaj Salt & Vinegar & Trufflesl,A,3.5,3.0,4.0,4.0,3.625
+2023-05-15,America-Vegas-Special,Rap Snacks Rick Ross Sweet Chilli Lemon Pepper,A,4.0,4.0,4.25,4.0,4.0625
+2023-05-15,America-Vegas-Special,"Rap Snacks Lily Baby ""All In"" Flavor Salt & Vinegar, BBQ, Onion, garlic, and more",A,3.2,3.0,3.0,4.0,3.3
+2023-05-15,America-Vegas-Special,Hard MtnbDew Baja Blast Zero Sugar,A,5.0,4.0,4.0,3.0,4.0
+2023-06-02,Ireland,Cadbury Snack! shortcake,J,3.0,3.5,3.0,3.5,3.25
+2023-06-02,Ireland,Cadbury Dairy Milk Gold Crisp,J,4.0,3.0,2.0,4.0,3.25
+2023-06-02,Ireland,Cabury BOOST,J,3.0,2.5,1.5,3.5,2.625
+2023-06-02,Ireland,Swizzlers Refreshers Lemon Flavor,J,3.5,3.0,4.0,3.0,3.375
+2023-06-02,Ireland,Keogh's Shamrock and Sour Cream Chips,J,5.0,4.5,5.0,4.0,4.625
+2023-06-02,Ireland,Cleeves Original Toffee,J,2.5,2.0,3.0,1.5,2.25
+2023-06-02,Ireland,Cadbury Snack! shortcake,E,2.0,2.7,3.0,2.5,2.55
+2023-06-02,Ireland,Cadbury Dairy Milk Gold Crisp,E,4.5,3.5,3.0,3.0,3.5
+2023-06-02,Ireland,Cabury BOOST,E,3.3,2.2,3.5,3.5,3.125
+2023-06-02,Ireland,Swizzlers Refreshers Lemon Flavor,E,3.4,2.5,4.3,4.0,3.55
+2023-06-02,Ireland,Keogh's Shamrock and Sour Cream Chips,E,4.5,4.3,5.0,4.0,4.45
+2023-06-02,Ireland,Cleeves Original Toffee,E,3.0,2.0,3.4,1.5,2.475
+2023-06-02,Ireland,Cadbury Snack! shortcake,C,2.0,3.5,3.5,2.5,2.875
+2023-06-02,Ireland,Cadbury Dairy Milk Gold Crisp,C,4.5,4.0,4.5,4.5,4.375
+2023-06-02,Ireland,Cabury BOOST,C,3.0,3.0,3.5,3.5,3.25
+2023-06-02,Ireland,Swizzlers Refreshers Lemon Flavor,C,3.5,3.0,4.5,4.0,3.75
+2023-06-02,Ireland,Keogh's Shamrock and Sour Cream Chips,C,4.5,4.0,4.0,4.0,4.125
+2023-06-02,Ireland,Cleeves Original Toffee,C,3.5,3.0,3.0,2.0,2.875
+2023-06-02,Ireland,Cadbury Snack! shortcake,A,2.0,3.3,2.0,2.25,2.3875
+2023-06-02,Ireland,Cadbury Dairy Milk Gold Crisp,A,4.5,3.5,4.0,4.2,4.05
+2023-06-02,Ireland,Cabury BOOST,A,3.0,3.0,3.0,4.0,3.25
+2023-06-02,Ireland,Swizzlers Refreshers Lemon Flavor,A,3.6,3.0,4.0,3.5,3.525
+2023-06-02,Ireland,Keogh's Shamrock and Sour Cream Chips,A,4.75,4.0,4.5,4.2,4.3625
+2023-06-02,Ireland,Cleeves Original Toffee,A,2.5,2.5,3.0,2.0,2.5
+2023-06-09,Italy,Tronky Nocciola,J,2.5,2.0,3.5,3.5,2.875
+2023-06-09,Italy,Loacker Classic Cocoa & Milk Wafer,J,4.0,4.0,4.0,4.0,4.0
+2023-06-09,Italy,Croccantelle susto Pizza,J,2.5,3.0,3.0,2.0,2.625
+2023-06-09,Italy,Mulino Bianco Baiocchi cookie,J,2.5,4.0,3.5,4.0,3.5
+2023-06-09,Italy,Buondi Motta Cioccolato cake,J,2.0,2.0,2.0,2.0,2.0
+2023-06-09,Italy,Tronky Nocciola,E,3.5,1.0,2.5,2.7,2.425
+2023-06-09,Italy,Loacker Classic Cocoa & Milk Wafer,E,3.5,3.5,4.0,3.6,3.65
+2023-06-09,Italy,Croccantelle susto Pizza,E,2.7,2.5,2.7,2.0,2.475
+2023-06-09,Italy,Mulino Bianco Baiocchi cookie,E,3.0,4.0,3.0,4.0,3.5
+2023-06-09,Italy,Buondi Motta Cioccolato cake,E,2.7,2.0,2.0,1.5,2.05
+2023-06-09,Italy,Tronky Nocciola,C,3.5,3.5,3.5,4.0,3.625
+2023-06-09,Italy,Loacker Classic Cocoa & Milk Wafer,C,4.0,3.5,3.0,3.5,3.5
+2023-06-09,Italy,Croccantelle susto Pizza,C,3.0,2.5,3.0,3.5,3.0
+2023-06-09,Italy,Mulino Bianco Baiocchi cookie,C,3.0,4.5,3.5,4.0,3.75
+2023-06-09,Italy,Buondi Motta Cioccolato cake,C,2.0,2.0,2.0,2.0,2.0
+2023-06-09,Italy,Tronky Nocciola,A,3.0,2.75,3.0,3.5,3.0625
+2023-06-09,Italy,Loacker Classic Cocoa & Milk Wafer,A,4.0,3.5,4.0,4.0,3.875
+2023-06-09,Italy,Croccantelle susto Pizza,A,2.5,3.0,3.0,2.5,2.75
+2023-06-09,Italy,Mulino Bianco Baiocchi cookie,A,2.5,4.0,3.75,4.0,3.5625
+2023-06-09,Italy,Buondi Motta Cioccolato cake,A,3.5,2.0,2.5,2.0,2.5
+2023-06-15,Italy,Loacker Tortina chococolate circle,J,3.0,4.0,2.0,4.0,3.25
+2023-06-15,Italy,Loacker Napolitaner Creme chocolate,J,3.0,4.5,3.0,3.5,3.5
+2023-06-15,Italy,Salati Preziosi Parika chips,J,4.0,3.5,4.5,3.5,3.875
+2023-06-15,Italy,Giovanni Cova & C Crostatina albicocca (apricart tart),J,4.0,4.5,3.5,4.5,4.125
+2023-06-15,Italy,Loacker Tortina chococolate circle,E,3.0,4.0,3.5,4.0,3.625
+2023-06-15,Italy,Loacker Napolitaner Creme chocolate,E,3.0,4.2,3.3,4.0,3.625
+2023-06-15,Italy,Salati Preziosi Parika chips,E,3.7,3.0,4.5,3.5,3.675
+2023-06-15,Italy,Giovanni Cova & C Crostatina albicocca (apricart tart),E,3.9,4.0,3.8,4.0,3.925
+2023-06-15,Italy,Loacker Tortina chococolate circle,C,3.5,4.0,4.0,4.5,4.0
+2023-06-15,Italy,Loacker Napolitaner Creme chocolate,C,3.5,4.0,4.0,4.0,3.875
+2023-06-15,Italy,Salati Preziosi Parika chips,C,4.0,3.5,4.5,3.5,3.875
+2023-06-15,Italy,Giovanni Cova & C Crostatina albicocca (apricart tart),C,4.0,4.5,3.5,4.5,4.125
+2023-06-15,Italy,Loacker Tortina chococolate circle,A,3.0,4.2,4.0,4.5,3.925
+2023-06-15,Italy,Loacker Napolitaner Creme chocolate,A,3.5,4.5,3.5,4.0,3.875
+2023-06-15,Italy,Salati Preziosi Parika chips,A,4.0,3.0,4.5,3.5,3.75
+2023-06-15,Italy,Giovanni Cova & C Crostatina albicocca (apricart tart),A,3.75,4.3,4.3,4.5,4.2125
+2023-06-15,Spain,nocilla sin chocoleche dip sticks,J,1.5,2.5,3.5,3.5,2.75
+2023-06-15,Spain,xispazos sabor electrico snack de maiz,J,2.0,3.5,3.5,4.0,3.25
+2023-06-15,Spain,Palotes damel sabor fresa,J,2.0,1.5,1.5,3.0,2.0
+2023-06-15,Spain,Cheetos pelotazos futebolas,J,3.5,4.0,3.0,4.0,3.625
+2023-06-15,Spain,Dulcesol palmeritas,J,2.0,4.0,4.5,4.5,3.75
+2023-06-15,Spain,nocilla sin chocoleche dip sticks,E,2.0,3.0,4.2,3.5,3.175
+2023-06-15,Spain,xispazos sabor electrico snack de maiz,E,2.0,3.5,3.7,3.0,3.05
+2023-06-15,Spain,Palotes damel sabor fresa,E,2.0,1.5,2.0,2.5,2.0
+2023-06-15,Spain,Cheetos pelotazos futebolas,E,3.5,4.0,3.0,4.5,3.75
+2023-06-15,Spain,Dulcesol palmeritas,E,2.5,4.5,3.7,4.5,3.8
+2023-06-15,Spain,nocilla sin chocoleche dip sticks,C,2.0,3.0,4.0,3.5,3.125
+2023-06-15,Spain,xispazos sabor electrico snack de maiz,C,2.5,3.5,3.5,3.0,3.125
+2023-06-15,Spain,Palotes damel sabor fresa,C,3.0,2.0,3.0,3.0,2.75
+2023-06-15,Spain,Cheetos pelotazos futebolas,C,4.0,3.0,4.0,4.5,3.875
+2023-06-15,Spain,Dulcesol palmeritas,C,2.5,3.5,4.0,4.5,3.625
+2023-06-15,Spain,nocilla sin chocoleche dip sticks,A,2.0,3.0,4.2,3.5,3.175
+2023-06-15,Spain,xispazos sabor electrico snack de maiz,A,2.75,3.75,3.75,3.0,3.3125
+2023-06-15,Spain,Palotes damel sabor fresa,A,2.0,2.0,3.0,3.0,2.5
+2023-06-15,Spain,Cheetos pelotazos futebolas,A,3.75,3.5,3.5,4.0,3.6875
+2023-06-15,Spain,Dulcesol palmeritas,A,3.0,4.0,4.0,4.0,3.75
+2023-07-15,Italy,Ferro duplo con nocciole intere (chocolate bar),J,2.5,4.0,3.5,4.5,3.625
+2023-07-15,Italy,Grisbi snack rice con riso soffiato,J,2.5,2.0,3.0,3.0,2.625
+2023-07-15,Italy,Fonzies gli originali chips,J,2.5,2.0,3.0,2.0,2.375
+2023-07-15,Italy,Ferro duplo con nocciole intere (chocolate bar),E,3.5,4.0,3.8,4.0,3.825
+2023-07-15,Italy,Grisbi snack rice con riso soffiato,E,2.7,2.0,4.0,3.4,3.025
+2023-07-15,Italy,Fonzies gli originali chips,E,3.0,2.5,3.0,2.0,2.625
+2023-07-15,Italy,Ferro duplo con nocciole intere (chocolate bar),C,3.0,4.0,4.5,4.0,3.875
+2023-07-15,Italy,Grisbi snack rice con riso soffiato,C,2.5,2.5,4.0,3.5,3.125
+2023-07-15,Italy,Fonzies gli originali chips,C,2.5,2.0,3.0,2.5,2.5
+2023-07-15,Italy,Ferro duplo con nocciole intere (chocolate bar),A,3.0,4.0,4.0,4.2,3.8
+2023-07-15,Italy,Grisbi snack rice con riso soffiato,A,2.7,2.2,3.5,3.5,2.975
+2023-07-15,Italy,Fonzies gli originali chips,A,2.5,2.0,3.5,2.5,2.625
+2023-07-22,Spain,Fini Gourmet Red liqurice srawberry,J,3.0,3.0,2.0,2.0,2.5
+2023-07-22,Spain,Dulcesol pandeorino cacao,J,3.0,2.5,4.0,4.0,3.375
+2023-07-22,Spain,Fini Bricks Ladrillos,J,2.0,3.0,4.5,2.0,2.875
+2023-07-22,Spain,Fini Roller Fizz Strawberry,J,2.5,3.0,3.0,3.5,3.0
+2023-07-22,Spain,el Valle Sabor Huevo Frito Fried Egg Taste,J,4.5,4.0,3.5,4.0,4.0
+2023-07-22,Spain,Fini Gourmet Red liqurice srawberry,E,2.5,2.0,3.0,3.0,2.625
+2023-07-22,Spain,Dulcesol pandeorino cacao,E,3.0,2.5,2.8,3.0,2.825
+2023-07-22,Spain,Fini Bricks Ladrillos,E,3.0,3.0,4.5,4.0,3.625
+2023-07-22,Spain,Fini Roller Fizz Strawberry,E,2.5,2.8,3.6,4.0,3.225
+2023-07-22,Spain,el Valle Sabor Huevo Frito Fried Egg Taste,E,4.5,3.5,4.0,3.7,3.925
+2023-07-22,Spain,Fini Gourmet Red liqurice srawberry,C,3.0,3.0,2.0,2.5,2.625
+2023-07-22,Spain,Dulcesol pandeorino cacao,C,2.5,3.0,2.5,3.5,2.875
+2023-07-22,Spain,Fini Bricks Ladrillos,C,3.0,3.0,3.0,3.5,3.125
+2023-07-22,Spain,Fini Roller Fizz Strawberry,C,3.5,3.5,3.5,3.5,3.5
+2023-07-22,Spain,el Valle Sabor Huevo Frito Fried Egg Taste,C,4.5,3.0,4.0,4.0,3.875
+2023-07-22,Spain,Fini Gourmet Red liqurice srawberry,A,2.5,3.0,2.2,2.25,2.4875
+2023-07-22,Spain,Dulcesol pandeorino cacao,A,2.5,2.5,2.75,3.5,2.8125
+2023-07-22,Spain,Fini Bricks Ladrillos,A,3.0,3.25,4.0,3.5,3.4375
+2023-07-22,Spain,Fini Roller Fizz Strawberry,A,3.5,3.0,3.75,3.0,3.3125
+2023-07-22,Spain,el Valle Sabor Huevo Frito Fried Egg Taste,A,4.0,3.0,3.5,4.0,3.625
+2023-07-28,India,"Rola-a-cola ""The solid cola""",J,4.0,2.0,3.5,3.0,3.125
+2023-07-28,India,"Parle, Fab! Bourbon",J,3.0,4.0,3.0,3.0,3.25
+2023-07-28,India,KurKure Green Chutney Style,J,3.5,3.0,4.0,3.5,3.5
+2023-07-28,India,Treat Burst Choco Fills,J,2.0,3.0,2.0,3.0,2.5
+2023-07-28,India,Parle kismi candy,J,2.5,2.0,4.0,3.5,3.0
+2023-07-28,India,"Rola-a-cola ""The solid cola""",E,4.0,2.0,3.5,3.0,3.125
+2023-07-28,India,"Parle, Fab! Bourbon",E,3.5,3.5,4.0,3.5,3.625
+2023-07-28,India,KurKure Green Chutney Style,E,3.0,2.5,4.3,3.0,3.2
+2023-07-28,India,Treat Burst Choco Fills,E,2.0,3.0,2.0,3.0,2.5
+2023-07-28,India,Parle kismi candy,E,3.0,2.0,2.0,3.0,2.5
+2023-07-28,India,"Rola-a-cola ""The solid cola""",C,4.0,2.0,3.0,3.0,3.0
+2023-07-28,India,"Parle, Fab! Bourbon",C,3.5,4.0,4.0,3.5,3.75
+2023-07-28,India,KurKure Green Chutney Style,C,3.0,2.5,3.5,3.5,3.125
+2023-07-28,India,Treat Burst Choco Fills,C,2.5,3.5,2.0,3.5,2.875
+2023-07-28,India,Parle kismi candy,C,3.0,2.5,1.0,3.0,2.375
+2023-07-28,India,"Rola-a-cola ""The solid cola""",A,4.0,2.0,3.5,3.0,3.125
+2023-07-28,India,"Parle, Fab! Bourbon",A,3.0,4.0,4.0,3.0,3.5
+2023-07-28,India,KurKure Green Chutney Style,A,3.75,2.5,4.0,3.5,3.4375
+2023-07-28,India,Treat Burst Choco Fills,A,2.5,3.0,2.5,3.0,2.75
+2023-07-28,India,Parle kismi candy,A,3.25,2.2,3.0,3.75,3.05
+2023-08-05,India,GoodDay Cashew Cookies,J,3.0,3.5,4.0,3.5,3.5
+2023-08-05,India,Waffy vanilla wafers,J,4.5,3.0,2.0,3.0,3.125
+2023-08-05,India,Prele-G Gold Biscuits,J,2.0,4.0,4.5,4.0,3.625
+2023-08-05,India,GoodDay Cashew Cookies,E,3.0,3.0,3.5,3.0,3.125
+2023-08-05,India,Waffy vanilla wafers,E,4.8,2.5,3.8,3.0,3.525
+2023-08-05,India,Prele-G Gold Biscuits,E,2.0,4.5,5.0,4.0,3.875
+2023-08-05,India,GoodDay Cashew Cookies,C,3.5,3.5,3.5,3.5,3.5
+2023-08-05,India,Waffy vanilla wafers,C,4.5,2.5,2.0,3.0,3.0
+2023-08-05,India,Prele-G Gold Biscuits,C,2.0,4.5,4.5,4.0,3.75
+2023-08-05,India,GoodDay Cashew Cookies,A,2.2,3.5,4.0,3.5,3.3
+2023-08-05,India,Waffy vanilla wafers,A,4.5,2.5,2.5,3.5,3.25
+2023-08-05,India,Prele-G Gold Biscuits,A,3.0,4.5,4.5,4.0,4.0
+2023-08-18,India,5050 Maska Chaska,J,2.5,3.5,3.0,4.0,3.25
+2023-08-18,India,Harldiramm's Indian Snacks Aloo Bhujia,J,3.5,2.0,4.0,3.0,3.125
+2023-08-18,India,Cheetos Masala Balls,J,3.5,3.5,4.0,3.0,3.5
+2023-08-18,India,5050 Maska Chaska,E,2.0,3.5,2.5,3.8,2.95
+2023-08-18,India,Harldiramm's Indian Snacks Aloo Bhujia,E,2.8,1.0,3.8,3.0,2.65
+2023-08-18,India,Cheetos Masala Balls,E,3.2,2.0,2.0,3.0,2.55
+2023-08-18,India,5050 Maska Chaska,C,2.0,3.5,3.5,3.5,3.125
+2023-08-18,India,Harldiramm's Indian Snacks Aloo Bhujia,C,3.5,3.0,3.5,3.5,3.375
+2023-08-18,India,Cheetos Masala Balls,C,3.0,2.5,4.5,3.0,3.25
+2023-08-18,India,5050 Maska Chaska,A,2.0,3.5,4.0,4.0,3.375
+2023-08-18,India,Harldiramm's Indian Snacks Aloo Bhujia,A,3.0,2.25,3.5,2.5,2.8125
+2023-08-18,India,Cheetos Masala Balls,A,4.0,2.5,4.0,3.0,3.375
+2023-09-08,China,WantWant Honey Kissed Crunchy Rice Balls (bee egg kid),J,4.0,4.0,3.0,2.0,3.25
+2023-09-08,China,WantWant Lychee Jelly Gummies,J,3.5,2.5,3.5,3.0,3.125
+2023-09-08,China,Skittles Floral Fruits,J,4.5,3.5,3.0,3.5,3.625
+2023-09-08,China,Ezaki Glico Spicy Spring Onion Crackers,J,4.0,3.0,3.5,4.0,3.625
+2023-09-08,China,Hi-Chew Grapefruit,J,5.0,3.5,4.5,4.0,4.25
+2023-09-08,China,WantWant Honey Kissed Crunchy Rice Balls (bee egg kid),E,3.8,4.2,4.0,2.0,3.5
+2023-09-08,China,WantWant Lychee Jelly Gummies,E,3.4,2.5,3.0,3.0,2.975
+2023-09-08,China,Skittles Floral Fruits,E,4.0,4.0,3.5,4.0,3.875
+2023-09-08,China,Ezaki Glico Spicy Spring Onion Crackers,E,4.0,2.5,4.2,3.5,3.55
+2023-09-08,China,Hi-Chew Grapefruit,E,4.0,3.8,4.5,4.3,4.15
+2023-09-08,China,WantWant Honey Kissed Crunchy Rice Balls (bee egg kid),C,4.0,4.5,4.0,3.5,4.0
+2023-09-08,China,WantWant Lychee Jelly Gummies,C,4.0,3.0,3.5,3.0,3.375
+2023-09-08,China,Skittles Floral Fruits,C,4.0,4.0,3.5,4.0,3.875
+2023-09-08,China,Ezaki Glico Spicy Spring Onion Crackers,C,4.0,3.0,4.0,3.5,3.625
+2023-09-08,China,Hi-Chew Grapefruit,C,4.5,4.0,4.5,4.0,4.25
+2023-09-08,China,WantWant Honey Kissed Crunchy Rice Balls (bee egg kid),A,4.3,4.3,2.5,1.75,3.2125
+2023-09-08,China,WantWant Lychee Jelly Gummies,A,3.6,2.5,3.0,2.5,2.9
+2023-09-08,China,Skittles Floral Fruits,A,4.5,4.5,4.0,3.5,4.125
+2023-09-08,China,Ezaki Glico Spicy Spring Onion Crackers,A,4.25,3.0,4.0,3.75,3.75
+2023-09-08,China,Hi-Chew Grapefruit,A,4.1,3.5,4.5,4.25,4.0875
+2023-09-16,China,Chips Ahoy Cranberry,J,2.0,4.0,3.5,4.0,3.375
+2023-09-16,China,Oreo Oolong + Peach ,J,3.5,4.0,2.0,3.0,3.125
+2023-09-16,China,WantWant Fried Rick Cracker,J,4.0,3.5,4.0,4.0,3.875
+2023-09-16,China,Orion Peach Jelly Gummies ,J,5.0,4.0,4.0,4.5,4.375
+2023-09-16,China,Chips Ahoy Cranberry,E,4.0,3.5,3.7,4.0,3.8
+2023-09-16,China,Oreo Oolong + Peach ,E,3.5,3.0,2.2,3.0,2.925
+2023-09-16,China,WantWant Fried Rick Cracker,E,3.5,3.0,4.0,4.2,3.675
+2023-09-16,China,Orion Peach Jelly Gummies ,E,4.0,2.5,4.0,4.0,3.625
+2023-09-16,China,Chips Ahoy Cranberry,C,4.0,4.0,4.0,4.5,4.125
+2023-09-16,China,Oreo Oolong + Peach ,C,4.5,4.5,2.0,3.5,3.625
+2023-09-16,China,WantWant Fried Rick Cracker,C,3.5,3.5,4.0,4.0,3.75
+2023-09-16,China,Orion Peach Jelly Gummies ,C,4.5,4.0,4.0,4.0,4.125
+2023-09-16,China,Chips Ahoy Cranberry,A,3.5,4.0,4.0,4.2,3.925
+2023-09-16,China,Oreo Oolong + Peach ,A,4.5,4.0,2.5,3.0,3.5
+2023-09-16,China,WantWant Fried Rick Cracker,A,4.3,2.75,4.0,3.9,3.7375000000000003
+2023-09-16,China,Orion Peach Jelly Gummies ,A,4.2,4.2,4.2,4.2,4.2
+2023-09-22,China,Oishi Orange Candy,J,2.5,2.0,2.0,3.0,2.375
+2023-09-22,China,Aji Oolong Peach Jelly,J,3.5,2.0,3.0,2.0,2.625
+2023-09-22,China,Oishi Orange Candy,E,3.5,2.5,2.0,3.0,2.75
+2023-09-22,China,Aji Oolong Peach Jelly,E,3.5,1.3,2.6,1.5,2.225
+2023-09-22,China,Oishi Orange Candy,C,4.0,2.5,4.0,3.0,3.375
+2023-09-22,China,Aji Oolong Peach Jelly,C,4.0,1.5,2.5,2.5,2.625
+2023-09-22,China,Oishi Orange Candy,A,3.2,2.5,4.0,2.5,3.05
+2023-09-22,China,Aji Oolong Peach Jelly,A,3.0,2.0,4.0,3.0,3.0
+2023-09-22,Thailand,Cucumber Lays,J,3.5,3.5,4.0,3.5,3.625
+2023-09-22,Thailand,Manora Fried Pumpkin Chips,J,4.0,3.0,4.0,4.0,3.75
+2023-09-22,Thailand,Big Roll Seaweed,J,4.0,2.0,4.5,2.0,3.125
+2023-09-22,Thailand,Pretz Larb flavor,J,2.5,3.5,4.5,3.0,3.375
+2023-09-22,Thailand,Mentos soda mix,J,3.5,3.5,3.5,2.0,3.125
+2023-09-22,Thailand,Kopiko Real Coffee Anytime Anywhere Coffee Candy,J,4.0,2.5,3.5,3.0,3.25
+2023-09-22,Thailand,Cucumber Lays,E,2.5,3.5,1.2,3.5,2.675
+2023-09-22,Thailand,Manora Fried Pumpkin Chips,E,3.5,2.8,4.5,4.2,3.75
+2023-09-22,Thailand,Big Roll Seaweed,E,3.8,1.5,1.5,2.0,2.2
+2023-09-22,Thailand,Pretz Larb flavor,E,4.0,3.0,4.2,3.2,3.5999999999999996
+2023-09-22,Thailand,Mentos soda mix,E,3.8,3.2,3.5,3.0,3.375
+2023-09-22,Thailand,Kopiko Real Coffee Anytime Anywhere Coffee Candy,E,3.8,3.0,4.0,3.2,3.5
+2023-09-22,Thailand,Cucumber Lays,C,3.5,3.5,2.5,3.5,3.25
+2023-09-22,Thailand,Manora Fried Pumpkin Chips,C,4.0,3.0,4.5,4.0,3.875
+2023-09-22,Thailand,Big Roll Seaweed,C,4.0,2.0,3.0,2.0,2.75
+2023-09-22,Thailand,Pretz Larb flavor,C,4.0,3.0,4.0,3.5,3.625
+2023-09-22,Thailand,Mentos soda mix,C,4.0,4.0,4.0,2.5,3.625
+2023-09-22,Thailand,Kopiko Real Coffee Anytime Anywhere Coffee Candy,C,4.0,3.0,4.5,3.0,3.625
+2023-09-22,Thailand,Cucumber Lays,A,3.75,2.5,2.2,3.0,2.8625
+2023-09-22,Thailand,Manora Fried Pumpkin Chips,A,4.5,3.0,4.25,4.0,3.9375
+2023-09-22,Thailand,Big Roll Seaweed,A,3.75,2.0,4.4,2.5,3.1625
+2023-09-22,Thailand,Pretz Larb flavor,A,3.4,3.0,4.5,3.5,3.6
+2023-09-22,Thailand,Mentos soda mix,A,4.0,3.5,3.75,2.5,3.4375
+2023-09-22,Thailand,Kopiko Real Coffee Anytime Anywhere Coffee Candy,A,3.0,2.5,4.0,3.75,3.3125
+2023-10-20,Thailand,Koh Kae Coconut Cream Peanuts,J,3.5,2.5,3.5,4.0,3.375
+2023-10-20,Thailand,Yoyo Cola Jelly Pieces,J,3.5,3.5,4.0,4.5,3.875
+2023-10-20,Thailand,Arnotts Stikko fingers chocolate wafer sticks,J,2.0,3.0,1.5,3.0,2.375
+2023-10-20,Thailand,Pocky Sumer Paradise Peach Lychee & Elderflower,J,4.5,3.0,3.5,4.0,3.75
+2023-10-20,Thailand,Yoguhurt,J,4.0,2.5,3.0,2.0,2.875
+2023-10-20,Thailand,Koh Kae Coconut Cream Peanuts,E,3.5,2.5,3.2,4.0,3.3
+2023-10-20,Thailand,Yoyo Cola Jelly Pieces,E,3.0,2.7,4.0,3.8,3.375
+2023-10-20,Thailand,Arnotts Stikko fingers chocolate wafer sticks,E,2.3,2.5,3.5,4.0,3.075
+2023-10-20,Thailand,Pocky Sumer Paradise Peach Lychee & Elderflower,E,5.0,3.0,3.7,4.0,3.925
+2023-10-20,Thailand,Yoguhurt,E,4.0,2.5,3.5,3.0,3.25
+2023-10-20,Thailand,Koh Kae Coconut Cream Peanuts,C,4.0,2.0,3.5,4.0,3.375
+2023-10-20,Thailand,Yoyo Cola Jelly Pieces,C,3.5,2.5,4.0,4.0,3.5
+2023-10-20,Thailand,Arnotts Stikko fingers chocolate wafer sticks,C,2.5,3.0,4.0,4.5,3.5
+2023-10-20,Thailand,Pocky Sumer Paradise Peach Lychee & Elderflower,C,5.0,3.5,2.5,4.0,3.75
+2023-10-20,Thailand,Yoguhurt,C,4.0,2.5,3.5,3.0,3.25
+2023-10-20,Thailand,Koh Kae Coconut Cream Peanuts,A,3.75,2.0,3.75,4.0,3.375
+2023-10-20,Thailand,Yoyo Cola Jelly Pieces,A,3.0,3.5,4.0,4.25,3.6875
+2023-10-20,Thailand,Arnotts Stikko fingers chocolate wafer sticks,A,2.3,3.0,3.25,4.0,3.1375
+2023-10-20,Thailand,Pocky Sumer Paradise Peach Lychee & Elderflower,A,4.5,3.1,4.5,4.25,4.0875
+2023-10-20,Thailand,Yoguhurt,A,4.5,2.5,3.5,3.0,3.375
+2023-11-03,Thailand,Big Sheet Seaweed Spicy,J,3.5,2.5,4.5,4.0,3.625
+2023-11-03,Thailand,Jack & Jill Cocont Crackers,J,4.0,4.0,4.0,4.5,4.125
+2023-11-03,Thailand,"Black Pink ""venom cream"" (Strawberry) Oreos",J,3.5,3.0,1.5,3.5,2.875
+2023-11-03,Thailand,Lush chocolate chewy candy,J,2.5,2.0,2.0,2.0,2.125
+2023-11-03,Thailand,Lays Shrimp Tom Yum Hot Pot,J,5.0,3.0,4.0,3.5,3.875
+2023-11-03,Thailand,Big Sheet Seaweed Spicy,E,3.0,1.5,2.0,3.0,2.375
+2023-11-03,Thailand,Jack & Jill Cocont Crackers,E,4.0,3.0,3.8,4.0,3.7
+2023-11-03,Thailand,"Black Pink ""venom cream"" (Strawberry) Oreos",E,3.5,3.3,2.0,3.0,2.95
+2023-11-03,Thailand,Lush chocolate chewy candy,E,2.0,2.5,4.0,3.0,2.875
+2023-11-03,Thailand,Lays Shrimp Tom Yum Hot Pot,E,4.4,3.0,4.5,3.5,3.85
+2023-11-03,Thailand,Big Sheet Seaweed Spicy,C,3.5,1.5,4.5,4.0,3.375
+2023-11-03,Thailand,Jack & Jill Cocont Crackers,C,4.0,4.0,4.5,4.0,4.125
+2023-11-03,Thailand,"Black Pink ""venom cream"" (Strawberry) Oreos",C,3.0,3.0,2.5,3.5,3.0
+2023-11-03,Thailand,Lush chocolate chewy candy,C,2.5,3.0,2.5,3.0,2.75
+2023-11-03,Thailand,Lays Shrimp Tom Yum Hot Pot,C,4.5,3.0,4.0,3.5,3.75
+2023-11-03,Thailand,Big Sheet Seaweed Spicy,A,3.75,2.5,4.5,3.0,3.4375
+2023-11-03,Thailand,Jack & Jill Cocont Crackers,A,3.0,3.75,4.5,4.5,3.9375
+2023-11-03,Thailand,"Black Pink ""venom cream"" (Strawberry) Oreos",A,2.2,3.5,3.0,3.75,3.1125
+2023-11-03,Thailand,Lush chocolate chewy candy,A,2.5,3.5,3.0,2.5,2.875
+2023-11-03,Thailand,Lays Shrimp Tom Yum Hot Pot,A,5.0,2.5,4.4,3.5,3.85
+2023-12-02,Caribbean,Jamaican Choice Spice Bun,J,3.5,2.5,4.0,3.0,3.25
+2023-12-02,Caribbean,Cherry Berries,J,2.0,2.5,3.0,3.0,2.625
+2023-12-02,Caribbean,Ole Xtreme Rranch Tortilla Chips,J,4.0,3.0,3.5,3.5,3.5
+2023-12-02,Caribbean,Tiki Gold Hazelnut,J,2.0,3.0,4.0,4.5,3.375
+2023-12-02,Caribbean,Jamaican Choice Spice Bun,E,2.7,1.8,3.0,3.0,2.625
+2023-12-02,Caribbean,Cherry Berries,E,3.3,3.0,3.5,4.0,3.45
+2023-12-02,Caribbean,Ole Xtreme Rranch Tortilla Chips,E,3.9,2.8,3.2,3.5,3.3499999999999996
+2023-12-02,Caribbean,Tiki Gold Hazelnut,E,3.0,3.0,4.5,4.5,3.75
+2023-12-02,Caribbean,Jamaican Choice Spice Bun,C,3.0,2.5,3.0,4.0,3.125
+2023-12-02,Caribbean,Cherry Berries,C,3.5,3.5,4.0,3.5,3.625
+2023-12-02,Caribbean,Ole Xtreme Rranch Tortilla Chips,C,4.5,3.5,3.0,3.5,3.625
+2023-12-02,Caribbean,Tiki Gold Hazelnut,C,2.5,3.0,4.5,4.5,3.625
+2023-12-02,Caribbean,Jamaican Choice Spice Bun,A,3.0,2.5,4.0,4.0,3.375
+2023-12-02,Caribbean,Cherry Berries,A,4.0,2.5,4.0,3.0,3.375
+2023-12-02,Caribbean,Ole Xtreme Rranch Tortilla Chips,A,3.5,3.0,4.0,3.5,3.5
+2023-12-02,Caribbean,Tiki Gold Hazelnut,A,2.5,3.0,4.5,4.5,3.625
+2023-12-08,Greece,Molta croissant,J,4.0,3.5,4.0,3.5,3.75
+2023-12-08,Greece,Jannis Sesame Bar & Honey,J,4.0,3.0,2.5,3.0,3.125
+2023-12-08,Greece,Chipita chips Oregano,J,3.0,4.0,4.0,3.5,3.625
+2023-12-08,Greece,Kiss Strawberry milk chocolate strawberry bar,J,2.0,3.5,4.0,4.0,3.375
+2023-12-08,Greece,"Ion Chocolates (mille-feuille, cocoa, strawberry)",J,2.5,4.0,3.0,3.5,3.25
+2023-12-08,Greece,Molta croissant,E,4.0,3.0,3.0,2.0,3.0
+2023-12-08,Greece,Jannis Sesame Bar & Honey,E,4.0,3.0,3.2,3.4,3.4
+2023-12-08,Greece,Chipita chips Oregano,E,4.0,4.0,3.8,4.0,3.95
+2023-12-08,Greece,Kiss Strawberry milk chocolate strawberry bar,E,2.0,2.0,4.5,4.5,3.25
+2023-12-08,Greece,"Ion Chocolates (mille-feuille, cocoa, strawberry)",E,3.0,4.0,3.0,3.0,3.25
+2023-12-08,Greece,Molta croissant,C,4.0,3.5,2.5,2.5,3.125
+2023-12-08,Greece,Jannis Sesame Bar & Honey,C,4.0,3.0,2.5,2.0,2.875
+2023-12-08,Greece,Chipita chips Oregano,C,4.0,3.5,3.5,3.5,3.625
+2023-12-08,Greece,Kiss Strawberry milk chocolate strawberry bar,C,2.0,3.5,4.0,4.5,3.5
+2023-12-08,Greece,"Ion Chocolates (mille-feuille, cocoa, strawberry)",C,3.5,4.0,4.0,4.0,3.875
+2023-12-08,Greece,Molta croissant,A,4.1,3.5,3.5,3.5,3.65
+2023-12-08,Greece,Jannis Sesame Bar & Honey,A,3.5,3.0,3.75,3.5,3.4375
+2023-12-08,Greece,Chipita chips Oregano,A,3.5,3.25,3.75,3.5,3.5
+2023-12-08,Greece,Kiss Strawberry milk chocolate strawberry bar,A,2.0,3.75,4.0,4.75,3.625
+2023-12-08,Greece,"Ion Chocolates (mille-feuille, cocoa, strawberry)",A,2.5,4.0,4.5,4.5,3.875
+2023-12-16,Greece,Derby Caramel Bar,J,4.5,2.0,3.5,3.5,3.375
+2023-12-16,Greece,Pavlidis Wafer,J,4.0,2.5,1.5,3.0,2.75
+2023-12-16,Greece,Miranda Biscuits,J,3.5,3.5,3.0,3.5,3.375
+2023-12-16,Greece,Lacta Oreo Bar,J,2.0,3.0,1.0,4.0,2.5
+2023-12-16,Greece,"Jumbo Vrikoles, cheese and tomoato",J,3.0,4.5,3.5,3.0,3.5
+2023-12-16,Greece,Keraso Pitaki cherry pie,J,2.0,3.5,1.5,3.0,2.5
+2023-12-16,Greece,"Super Jelly Candy (peach, cherry, strawberry, orange, grape, lemon)",J,2.5,3.0,3.0,3.0,2.875
+2023-12-16,Greece,Derby Caramel Bar,E,3.8,2.8,4.0,4.0,3.65
+2023-12-16,Greece,Pavlidis Wafer,E,3.5,3.0,2.3,3.0,2.95
+2023-12-16,Greece,Miranda Biscuits,E,2.8,3.6,2.5,3.0,2.975
+2023-12-16,Greece,Lacta Oreo Bar,E,2.2,4.0,3.0,3.8,3.25
+2023-12-16,Greece,"Jumbo Vrikoles, cheese and tomoato",E,3.0,4.0,3.0,2.6,3.15
+2023-12-16,Greece,Keraso Pitaki cherry pie,E,3.0,3.8,2.5,3.0,3.075
+2023-12-16,Greece,"Super Jelly Candy (peach, cherry, strawberry, orange, grape, lemon)",E,2.5,3.5,3.0,2.5,2.875
+2023-12-16,Greece,Derby Caramel Bar,C,4.0,3.5,4.0,4.5,4.0
+2023-12-16,Greece,Pavlidis Wafer,C,4.0,3.0,4.0,4.0,3.75
+2023-12-16,Greece,Miranda Biscuits,C,3.5,4.0,4.0,4.0,3.875
+2023-12-16,Greece,Lacta Oreo Bar,C,2.5,4.0,4.0,3.5,3.5
+2023-12-16,Greece,"Jumbo Vrikoles, cheese and tomoato",C,3.5,4.0,4.0,3.5,3.75
+2023-12-16,Greece,Keraso Pitaki cherry pie,C,2.0,4.0,2.0,2.5,2.625
+2023-12-16,Greece,"Super Jelly Candy (peach, cherry, strawberry, orange, grape, lemon)",C,3.0,3.5,4.0,3.5,3.5
+2023-12-16,Greece,Derby Caramel Bar,A,4.2,2.5,4.4,4.75,3.9625000000000004
+2023-12-16,Greece,Pavlidis Wafer,A,4.0,3.0,3.0,3.0,3.25
+2023-12-16,Greece,Miranda Biscuits,A,2.5,3.25,2.0,2.5,2.5625
+2023-12-16,Greece,Lacta Oreo Bar,A,3.0,4.0,2.75,3.0,3.1875
+2023-12-16,Greece,"Jumbo Vrikoles, cheese and tomoato",A,3.0,4.3,3.5,3.5,3.575
+2023-12-16,Greece,Keraso Pitaki cherry pie,A,2.0,3.75,2.5,3.0,2.8125
+2023-12-16,Greece,"Super Jelly Candy (peach, cherry, strawberry, orange, grape, lemon)",A,3.5,3.5,4.0,3.5,3.625
